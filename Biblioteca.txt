@@ -1,0 +1,56 @@
+Proiectul "Biblioteca digitală – gestionarea împrumuturilor pentru cărțile digitale și fizice" are ca scop dezvoltarea unui sistem integrat și eficient pentru gestionarea împrumuturilor de cărți, atât în format fizic, cât și digital. Principalele idei și funcționalități ale proiectului sunt următoarele:
+
+1. Împrumuturi diferențiate pentru cărțile fizice și digitale:
+
+Cărțile fizice au un număr limitat de exemplare disponibile și un număr maxim de împrumuturi simultane. După epuizarea acestora, utilizatorii vor trebui să aștepte returnarea pentru a împrumuta din nou.
+
+Cărțile digitale, pe de altă parte, pot fi împrumutate nelimitat, oferind acces imediat și continuu pentru toți utilizatorii, fără a fi restricționat de disponibilitatea exemplarelor.
+
+
+
+2. Cărțile digitale disponibile în mai multe formate:
+
+Utilizatorii vor avea acces la cărțile digitale în formate diverse, precum PDF, ePub, MOBI sau alte formate compatibile cu dispozitivele de citit electronice (e-readers), tablete sau telefoane mobile.
+
+Această flexibilitate permite utilizatorilor să aleagă formatul care se potrivește cel mai bine dispozitivului sau preferințelor lor de lectură.
+
+
+
+3. Categorizarea avansată a cărților digitale:
+
+Cărțile digitale vor fi clasificate pe categorii specifice, cum ar fi genul literar, dificultatea textului sau lungimea cărții (măsurată în numărul de pagini sau în volum de date).
+
+
+
+4. Gestionarea utilizatorilor și istoricul împrumuturilor:
+
+Fiecare împrumut va fi înregistrat cu detalii despre utilizator, cum ar fi numele, data împrumutului și perioada disponibilă pentru returnare.
+
+Sistemul va păstra un istoric al împrumuturilor, oferind utilizatorilor posibilitatea de a vedea ce cărți au citit anterior și de a gestiona returnările sau prelungirile împrumuturilor.
+
+
+
+5. Durata flexibilă a împrumuturilor:
+
+Pentru cărțile fizice, împrumuturile vor avea o durată prestabilită, dar pot fi prelungite în funcție de disponibilitate.
+
+În cazul cărților digitale, utilizatorii pot păstra cartea pentru o perioadă nelimitată, cu opțiunea de a o "returna" virtual odată ce au terminat lectura.
+
+
+
+6. Statistici și rapoarte de utilizare:
+
+Sistemul va genera rapoarte detaliate privind numărul de împrumuturi, cele mai populare titluri și timpul mediu de lectură pentru fiecare categorie de carte.
+
+
+
+7. Alertare și notificări:
+
+Utilizatorii vor primi notificări automate pentru returnarea cărților fizice sau prelungirea termenului de împrumut.
+
+De asemenea, vor fi alertați când o carte fizică devine din nou disponibilă pentru împrumut.
+
+
+
+
+Prin aceste funcționalități, proiectul oferă o soluție digitalizată și flexibilă pentru gestionarea împrumuturilor de cărți, adaptată nevoilor moderne ale utilizatorilor, fie că este vorba de cărți fizice sau digitale, și oferind acces facil la resurse în diferite formate.
