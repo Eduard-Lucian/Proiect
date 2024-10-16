@@ -50,7 +50,7 @@ Utilizatorii vor primi notificări automate pentru returnarea cărților fizice 
 
 De asemenea, vor fi alertați când o carte fizică devine din nou disponibilă pentru împrumut.
 
-
+8. Categorii de utilizatori
 
 
 Prin aceste funcționalități, proiectul oferă o soluție digitalizată și flexibilă pentru gestionarea împrumuturilor de cărți, adaptată nevoilor moderne ale utilizatorilor, fie că este vorba de cărți fizice sau digitale, și oferind acces facil la resurse în diferite formate.
