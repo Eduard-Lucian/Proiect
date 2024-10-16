@@ -1,4 +1,4 @@
-Proiectul "Biblioteca digitală – gestionarea împrumuturilor pentru cărțile digitale și fizice" are ca scop dezvoltarea unui sistem integrat și eficient pentru gestionarea împrumuturilor de cărți, atât în format fizic, cât și digital. Principalele idei și funcționalități ale proiectului sunt următoarele:
+Proiectul "Biblioteca digitală – gestionarea împrumuturilor pentru cărțile digitale și fizice" are ca scop dezvoltarea unui sistem integrat și eficient pentru gestionarea împrumuturilor de cărți, atât în format fizic, cât și digital. Principalele idei și funcționalități ale proiectului sunt următoarele, astfel fiind create clase in functie de acestea:
 
 1. Împrumuturi diferențiate pentru cărțile fizice și digitale:
 
