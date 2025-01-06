@@ -1,4 +1,4 @@
-# Proiect-Pa
+# Proiect
 
 Proiectul „Biblioteca Digitală – Gestionarea Împrumuturilor pentru Cărțile Digitale și Fizice” se bazează pe un sistem care permite gestionarea împrumuturilor de cărți fizice și digitale. 
 Administratorii pot adăuga, șterge și vizualiza cărțile, iar utilizatorii pot împrumuta și returna cărți, având acces și la informații despre stocul disponibil.
