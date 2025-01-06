@@ -6,11 +6,8 @@ Administratorii pot adăuga, șterge și vizualiza cărțile, iar utilizatorii p
 **Implementarea algoritmului**
 
 Implementarea algoritmului pentru proiectul „Biblioteca Digitală – Gestionarea Împrumuturilor pentru Cărțile Digitale și Fizice” se bazează pe organizarea și manipularea datelor referitoare la cărțile din bibliotecă. 
-
 Algoritmul include funcționalități pentru gestionarea împrumuturilor de cărți, atât fizice, cât și digitale, precum și pentru actualizarea stocurilor și monitorizarea statutului împrumuturilor. 
-
 Structura principală a algoritmului permite administrarea eficientă a cărților, oferind opțiuni de vizualizare a cărților disponibile, adăugare și ștergere de cărți, gestionarea utilizatorilor și a împrumuturilor, respectând regulile specifice fiecărui tip de carte. 
-
 Algoritmul se asigură că datele sunt actualizate corect și că interacțiunile utilizatorilor cu sistemul sunt fluide și intuitive.
 
 **Structura**
